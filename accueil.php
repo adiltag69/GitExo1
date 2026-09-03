@@ -15,6 +15,5 @@ if ($login == 'admin' AND $mdp == 'azerty' ) {
  header("Location: http://$host$uri/index.html); // vers index.html
 }
 
-
 ?>
 
